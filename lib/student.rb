@@ -7,7 +7,7 @@ class Student
   new_song.name =  row[1]
   new_song.length = row[2]
   new_song  # return the newly created instance
-end
+  end
   
 
   def self.all
